@@ -1,2 +1,1 @@
-# First-rep
-Wow, this my first rep
+# Мой первый репозиторий
